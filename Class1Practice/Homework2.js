@@ -87,6 +87,6 @@ console.log(`The last character of Sentence3 is ${lastCharacterInSentence3}`);
 // 6. word 'Body' is present only once. (true or false)
 
 
-
+    
 
 
