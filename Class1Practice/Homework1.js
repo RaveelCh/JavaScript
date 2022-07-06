@@ -1,4 +1,4 @@
-/**Raveel Taimoor HomwWork1
+/**Raveel Taimoor HomeWork1
  * 
  * 
  * Convert temperature values into different units
