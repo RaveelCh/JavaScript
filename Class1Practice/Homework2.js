@@ -85,7 +85,7 @@ console.log(`The last character of Sentence3 is '${lastCharacterInSentence3}'`);
 
 
 // 6. word 'Body' is present only once. (true or false)
-let bodyPresentOnce = sentence3LowerCase.indexOf('health') === sentence3LowerCase.lastIndexOf('health');
+let bodyPresentOnce = sentence3LowerCase.indexOf('body') === sentence3LowerCase.lastIndexOf('body');
 
 console.log(`The word 'Body' is present only once --> ${bodyPresentOnce}.`);
 
